@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|c:\\users\\owner\\desktop\\mission10assignment_fellows\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68ECD5F7-7523-4078-83C1-BA5EDF455B8C}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Controllers\\BowlersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BowlersController.cs",
+              "ViewState": "AgIAAAsAAAAAzczMzMwmwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:39:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:38:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:11:08.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T19:09:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Data\\Team.cs",
+              "RelativeToolTip": "backend\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:58:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Data\\Bowler.cs",
+              "RelativeToolTip": "backend\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAUAAAAAYGZmZmbyvxoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:53:59.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAEAAACgZmZmZiYgwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:01:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:02:01.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T21:21:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission10assignment_Fellows\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T19:23:00.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
